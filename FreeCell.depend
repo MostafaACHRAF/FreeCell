@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1462316122 source:d:\mostafa\formation\glsid première année\s2\c++\td\freecell\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
